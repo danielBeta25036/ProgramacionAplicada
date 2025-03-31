@@ -12,3 +12,4 @@ print(my_lista[:2])
 my_lista.append('blanco')
 print(my_lista)
 
+print("esto es lo que llevop de la tarea")
